@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/img/AltTab_Bg_re.PNG" width = 55% alt="profile logo">
+<img src="./assets/AltTab_Bg_re.PNG" width = 55% alt="profile logo">
 
 ### ✨ 한 곳에서 해결하는 알고리즘 스터디! AltTab 📖
 
@@ -8,7 +8,7 @@
 
 ## 💬 서비스 소개
 
-### <img src="./assets/img/AltTab%20-%20logo(Resize).png" alt="Dlook_logo" style="vertical-align: middle; margin-right: 5px;"> <span> 알고리즘 트레이닝의 새로운 차원</span>
+### <img src="./assets/AltTab%20-%20logo(Resize).png" alt="Dlook_logo" style="vertical-align: middle; margin-right: 5px;"> <span> 알고리즘 트레이닝의 새로운 차원</span>
 
 알고리즘 학습, 이제는 AltTab으로 전환하세요! Algorithm Training Tab의 약자인 AltTab은 여러분의 코딩 실력을 한 단계 끌어올릴 준비가 되어 있습니다.
 
@@ -50,7 +50,7 @@ AltTab과 함께라면, 여러분의 알고리즘 실력은 새로운 차원으�
 	</tr>
 	<tr>
 		<td align="center">
-			<img src="./assets/img/랜딩페이지.PNG" alt="Landing Page">
+			<img src="./assets/랜딩페이지.PNG" alt="Landing Page">
 		</td>
 	</tr>
 </table>
