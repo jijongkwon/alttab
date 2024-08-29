@@ -91,7 +91,7 @@ AltTab과 함께라면, 여러분의 알고리즘 실력은 새로운 차원으�
             <td><img src="./assets/img/javaScript.png" width="15px" alt="_icon"/>&nbsp;&nbsp;<b>JavaScript</b></td>
         </tr>
         <tr>
-            <td><img src="" width="15px" alt="_icon" />&nbsp;&nbsp;<b>React</b></td>
+            <td><img src="./assets/img/react.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>React</b></td>
             <td>Frontend Framework</tdi>
         </tr>
         <tr>
