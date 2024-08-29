@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/AltTab_Bg_re.PNG" width = 55% alt="profile logo">
+<img src="./assets/img/AltTab_Bg_re.PNG" width = 55% alt="profile logo">
 
 ### ✨ 한 곳에서 해결하는 알고리즘 스터디! AltTab 📖
 
@@ -8,7 +8,7 @@
 
 ## 💬 서비스 소개
 
-### <img src="./assets/AltTab%20-%20logo(Resize).png" alt="Dlook_logo" style="vertical-align: middle; margin-right: 5px;"> <span> 알고리즘 트레이닝의 새로운 차원</span>
+### <img src="./assets/img/AltTab%20-%20logo(Resize).png" alt="Dlook_logo" style="vertical-align: middle; margin-right: 5px;"> <span> 알고리즘 트레이닝의 새로운 차원</span>
 
 알고리즘 학습, 이제는 AltTab으로 전환하세요! Algorithm Training Tab의 약자인 AltTab은 여러분의 코딩 실력을 한 단계 끌어올릴 준비가 되어 있습니다.
 
@@ -50,18 +50,19 @@ AltTab과 함께라면, 여러분의 알고리즘 실력은 새로운 차원으�
 	</tr>
 	<tr>
 		<td align="center">
-			<img src="./assets/랜딩페이지.PNG" alt="Landing Page">
+			<img src="./assets/img/랜딩페이지.PNG" alt="Landing Page">
 		</td>
 	</tr>
 </table>
 
 |                                        <b>스터디 생성</b>                                        |                                                      <b>문제 추천</b>                                                      |
 | :----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-| <img src='https://gist.github.com/user-attachments/assets/12a42fc2-c65a-4815-9165-413cdcfdc686'> | <img src='https://gist.github.com/user-attachments/assets/10495b8d-6602-49f9-b24a-21d7b3072f76' width = 100% height=280vh> |
+| <img src='./assets/gif/스터디생성.gif'> | <img src='./assets/gif/문제추천.gif' width = 100% height=280vh> |
 |                                       <b>컴파일러 정답</b>                                       |                                                        <b>Draw</b>                                                         |
-| <img src='https://gist.github.com/user-attachments/assets/89d28b96-6619-455c-894d-2b8bc82235a4'> | <img src='https://gist.github.com/user-attachments/assets/aaf4a8ad-ac68-49f2-b956-4ae150335488' width = 100% height=280vh> |
+| <img src='./assets/gif/코드실행 정답.gif'> | <img src='./assets/gif/draw.gif' width = 100% height=280vh> |
 |                                       <b>컴파일러 에러</b>                                       |                                                     <b>풀이 페이지</b>                                                     |
-| <img src='https://gist.github.com/user-attachments/assets/98839160-9d52-4456-8125-f1c17026e246'> |              <img src='https://gist.github.com/user-attachments/assets/aba1fb2f-5c7b-4ba8-b7d9-45287c392c1b'>              |
+| <img src='./assets/img/컴파일러 에러.png'> |              <img src='./assets/img/풀이 페이지.png'>              |
+
 
 ## 🖋 Service Architecture
 
@@ -80,62 +81,62 @@ AltTab과 함께라면, 여러분의 알고리즘 실력은 새로운 차원으�
         <!-- FrontEnd Stack -->
         <tr>
             <td rowspan="5" align="center"><b>FE</td>
-            <td><img src="https://github.com/noxknow/Java_study/assets/122594223/60b9eb2f-a59b-4c2f-9cfd-cbf70ded94a8" width="15px" alt="_icon" />&nbsp;&nbsp;<b>HTML</td>
+            <td><img src="./assets/img/html.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>HTML</td>
             <td rowspan="3" style="vertical-align: middle;">Website Building Components</td>
         </tr>
         <tr>
-            <td><img src="https://github.com/noxknow/Java_study/assets/122594223/15e86c4f-497f-417c-93b3-df11584f5790" width="15px" alt="_icon" />&nbsp;&nbsp;<b>CSS</td>
+            <td><img src="./assets/img/css.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>CSS</td>
         </tr>
         <tr>
-            <td><img src="https://github.com/noxknow/Java_study/assets/122594223/c9876d0b-0488-47f4-ade4-2bf81aa0c688" width="15px" alt="_icon"/>&nbsp;&nbsp;<b>JavaScript</b></td>
+            <td><img src="./assets/img/javaScript.png" width="15px" alt="_icon"/>&nbsp;&nbsp;<b>JavaScript</b></td>
         </tr>
         <tr>
-            <td><img src="https://github.com/noxknow/Java_study/assets/122594223/25191325-930f-4e5e-a91d-fcbdc7214f9f" width="15px" alt="_icon" />&nbsp;&nbsp;<b>React</b></td>
+            <td><img src="" width="15px" alt="_icon" />&nbsp;&nbsp;<b>React</b></td>
             <td>Frontend Framework</tdi>
         </tr>
         <tr>
-            <td><img src="https://gist.github.com/user-attachments/assets/f9a02572-531d-420a-aff3-11c6c30867da" width="15px" alt="_icon" />&nbsp;&nbsp;<b>TypeScript</b></td>
+            <td><img src="./assets/img/typeScript.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>TypeScript</b></td>
             <td>Frontend Programming Language</tdi>
         </tr>
         <!-- Backend Stack -->
         <tr>
             <td rowspan="6" align="center"><b>BE</td>
-            <td><img src="https://user-images.githubusercontent.com/112257466/209075018-0a1f7f14-a910-4d16-a4e4-51929b99e1ae.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Java21-Spring</td>
+            <td><img src="./assets/img/java21.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Java21-Spring</td>
             <td rowspan="2">Spring Server Framework</td>
         </tr>
         <tr>
-            <td><img src="https://user-images.githubusercontent.com/112257466/209075280-78be8487-7d6a-485c-92a8-d6677f0caab9.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Spring Boot</td>
+            <td><img src="./assets/img/springBoot.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Spring Boot</td>
             <tr>
-            <td><img src="https://user-images.githubusercontent.com/112257466/209076523-777fe02a-455f-48a0-a4b1-aeb9fff17b10.png" width="14px" alt="_icon" />&nbsp;&nbsp;<b>JPA & Data JPA</td>
+            <td><img src="./assets/img/JPA.png" width="14px" alt="_icon" />&nbsp;&nbsp;<b>JPA & Data JPA</td>
             <td rowspan=1>Data Processing Skills</td>
         </tr>
         <tr>
-            <td><img src="https://user-images.githubusercontent.com/112257466/209078356-d9120e3d-9498-4ee4-a38d-139a263910f4.png" width="14px" alt="_icon" />&nbsp;&nbsp;<b>MySQL 8.0</td>
+            <td><img src="./assets/img/Mysql.png" width="14px" alt="_icon" />&nbsp;&nbsp;<b>MySQL 8.0</td>
             <td>Back-End Main Database</td>
         </tr>     
         <tr>
-            <td><img src="https://gist.github.com/user-attachments/assets/d526f0c0-7002-44b4-8dfe-e4be601c8af8" width="14px" alt="_icon" />&nbsp;&nbsp;<b>Mongo DB</td>
+            <td><img src="./assets/img/MongoDB.png" width="14px" alt="_icon" />&nbsp;&nbsp;<b>Mongo DB</td>
             <td>Back-End Main Database</td>
         </tr>   
         <tr>
-            <td><img src="https://gist.github.com/user-attachments/assets/93aaf6a2-b68f-4e05-883b-3ca4f09367d2" width="14px" alt="_icon" />&nbsp;&nbsp;<b>Redis</td>
+            <td><img src="./assets/img/redis.png" width="14px" alt="_icon" />&nbsp;&nbsp;<b>Redis</td>
             <td>Back-End Main Database</td>
         </tr>   
         <!-- Tools --> 
         <tr>
             <td rowspan="4" align="center"><b>Tools</td>
-            <td><img src="https://github.com/noxknow/Java_study/assets/122594223/11e27614-1338-4963-8630-44b8dbd4b6a4" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Git</td>
+            <td><img src="./assets/img/git.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Git</td>
             <td>Version Control System (VCS)</td>
         </tr>
         <tr>
-            <td><img src="https://github.com/noxknow/Java_study/assets/122594223/b2883ee7-9efe-46d0-ac19-be48846c61e7" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Notion</td>
+            <td><img src="./assets/img/notion.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Notion</td>
             <td>Collaborative Productivity Platform</td>
         </tr>
         <tr>
-            <td><img src="https://github.com/noxknow/Java_study/assets/122594223/0b33547c-2a94-40c8-893e-81eff4627055" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Google Slides</td>
+            <td><img src="./assets/img/googleSlides.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Google Slides</td>
             <td rowspan="2">Google Workspace Productivity Tools</td>
             <tr>
-            <td><img src="https://github.com/noxknow/Java_study/assets/122594223/0aec4756-4dd2-43a4-904c-69f92dae8b72" width="14px" alt="_icon" />&nbsp;&nbsp;<b>Google Sheets</td>
+            <td><img src="./assets/img/googleSheets.png" width="14px" alt="_icon" />&nbsp;&nbsp;<b>Google Sheets</td>
         </tr>
     </table>
 </div>
