@@ -67,7 +67,7 @@ AltTab과 함께라면, 여러분의 알고리즘 실력은 새로운 차원으�
 ## 🖋 Service Architecture
 
 <div align="center">
-	<img src='https://gist.github.com/user-attachments/assets/e8c12f44-eaf4-4d2a-8cbc-b67903299f6d'>
+	<img src='./assets/img/아키텍처.png'>
 </div>
 
 ## ⛓ Tech Stack
