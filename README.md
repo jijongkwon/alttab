@@ -57,11 +57,11 @@ AltTab과 함께라면, 여러분의 알고리즘 실력은 새로운 차원으�
 
 | <b>스터디 생성</b> | <b>문제 추천</b> |
 |:--:|:--:|
-| <img src='./assets/gif/스터디생성.gif' width="480"> | <img src='./assets/gif/문제추천.gif' width="480"> |
+| <img src='./assets/gif/스터디생성.gif' width="100%"> | <img src='./assets/gif/문제추천.gif' width="100%"> |
 | <b>컴파일러 정답</b> | <b>Draw</b> |
-| <img src='./assets/gif/코드실행 정답.gif' width="480"> | <img src='./assets/gif/draw.gif' width="480"> |
+| <img src='./assets/gif/코드실행 정답.gif' width="100%"> | <img src='./assets/gif/draw.gif' width="100%"> |
 | <b>컴파일러 에러</b> | <b>풀이 페이지</b> |
-| <img src='./assets/img/컴파일러 에러.png' width="480"> | <img src='./assets/img/풀이 페이지.png' width="480"> |
+| <img src='./assets/img/컴파일러 에러.png' width="100%"> | <img src='./assets/img/풀이 페이지.png' width="100%"> |
 
 
 ## 🖋 Service Architecture
